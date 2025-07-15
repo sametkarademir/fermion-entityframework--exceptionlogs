@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <PackageId>Fermion.EntityFramework.ExceptionLogs</PackageId>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>1.0.0</Version>
+        <Version>1.0.1</Version>
         <Authors>Samet Karademir</Authors>
         <Description>A Fermion package for logging exceptions in Entity Framework Core using a database.</Description>
         <PackageTags>dotnet;fermion;entityframework;exception;logs;logging;database</PackageTags>
